@@ -1,0 +1,25 @@
+.container{
+    border: 3px solid black;
+    /* width: 100px; */
+    /* height: 300px; */
+
+}
+.h1{
+
+    background-color: red;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+    
+}
+
+.h5{
+    color: black;
+    margin-left: 4px;
+
+}
+
+
+    
+
